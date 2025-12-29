@@ -4,7 +4,7 @@
 ![Vapi](https://img.shields.io/badge/Vapi.ai-Voice_Agent-orange?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-LLM-blue?style=for-the-badge)
 
-### [🔴 LIVE DEMO ](https://your-vercel-link-here.app)
+### [🔴 LIVE DEMO ](https://ai-mock-interviews-6pv3.vercel.app/)
 *(Click above to try the AI Interviewer)*
 
 ---
@@ -28,6 +28,8 @@ Unlike standard text chatbots, this application uses **Vapi.ai** to create a con
 * **📊 Performance Score:** Generates a detailed scorecard (Accuracy, Communication, Technical Depth) after the interview.
 
 ### 📸 **Screenshots**
+<img width="1909" height="865" alt="image" src="https://github.com/user-attachments/assets/4ec6bcfc-dc15-46eb-901c-fa4945a5f048" />
+<img width="1911" height="860" alt="image" src="https://github.com/user-attachments/assets/3683836c-0baf-4228-b180-be3474bedcde" />
 <img width="1898" height="860" alt="image" src="https://github.com/user-attachments/assets/2eebd3b8-e6a8-490e-b9bf-c16fdd30250d" />
 
 
