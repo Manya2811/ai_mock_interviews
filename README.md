@@ -29,8 +29,11 @@ Unlike standard text chatbots, this application uses **Vapi.ai** to create a con
 
 ### 📸 **Screenshots**
 <img width="1909" height="865" alt="image" src="https://github.com/user-attachments/assets/4ec6bcfc-dc15-46eb-901c-fa4945a5f048" />
-<img width="1911" height="860" alt="image" src="https://github.com/user-attachments/assets/3683836c-0baf-4228-b180-be3474bedcde" />
+
 <img width="1898" height="860" alt="image" src="https://github.com/user-attachments/assets/2eebd3b8-e6a8-490e-b9bf-c16fdd30250d" />
+
+<img width="1314" height="857" alt="image" src="https://github.com/user-attachments/assets/01e05d72-6eb7-44d3-be11-f23331ea4a33" />
+
 <img width="1879" height="859" alt="image" src="https://github.com/user-attachments/assets/de12cef4-ae53-4d38-b0bf-5a0a316776d6" />
 
 
